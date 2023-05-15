@@ -69,3 +69,13 @@ Would you like to add the project ID and dataset to your .env file? Yes
 Berikut tampilan ketika semua sudah di install
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684151068382/39e122cb-0700-4282-8def-6413a6c534af.png align="center")
+
+## Install **next-sanity**
+
+Untuk lebih jelasnya kalian bisa [dokumentasinya](https://www.npmjs.com/package/next-sanity#live-real-time-preview)
+
+Buka terminal kalian pada projek tadi dan ketikan kode berikut
+
+```css
+npm install next-sanity @portabletext/react @sanity/image-url
+```
