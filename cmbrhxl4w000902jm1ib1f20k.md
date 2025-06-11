@@ -1,5 +1,6 @@
 ---
 title: "Strategi Pendidikan Indonesia 2024: Inovasi dan Kesetaraan Menuju Masa Depan Cemerlang"
+seoTitle: "Inovasi Pendidikan Indonesia 2024"
 datePublished: Wed Jun 11 2025 05:15:23 GMT+0000 (Coordinated Universal Time)
 cuid: cmbrhxl4w000902jm1ib1f20k
 slug: strategi-pendidikan-indonesia-2024-inovasi-dan-kesetaraan-menuju-masa-depan-cemerlang
